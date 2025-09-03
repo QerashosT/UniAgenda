@@ -22,7 +22,7 @@ A plataforma permite **cadastro, login e agendamento de salas**, facilitando a g
 ![Cadastro](imagens/tela_cadastro_UniAgenda.png)
 
 ### 🔒 Tela de Login
-![Login](imagens/tela_login_UniAgenda.png)
+![Login](imagens/tela_login1_UniAgenda.png)
 
 ### 🏠 Tela Inicial – Perfil + Agenda
 ![Tela Inicial 1](imagens/tela_inicial_UniAgenda.png)
